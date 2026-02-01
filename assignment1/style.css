@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 40px 60px;
+     font-family: "Noto Sans", sans-serif;
+}
+p, h1 {
+    max-width: 900px;
+}
+h1 {
+    font-size: 44px;
+    font-weight: 700;
+    margin-bottom: 28px;
+}
+p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 22px;
+}
+a {
+    color: #360cef;
+    text-decoration: underline;
+    font-size: 18px;
+}
